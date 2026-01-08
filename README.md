@@ -62,10 +62,6 @@ A comprehensive REST API and Python SDK for a simplified trading platform, simil
 
 \- ✅ Input validation and business logic
 
-\- ✅ CORS enabled
-
-\- ✅ Comprehensive logging
-
 
 
 \## 🛠️ Technology Stack
@@ -799,10 +795,6 @@ trading-platform/
 │   ├── \_\_init\_\_.py
 
 │   └── trading\_sdk.py
-
-├── tests/                       # Unit tests
-
-│   └── (test files)
 
 ├── examples/                    # Usage examples
 
