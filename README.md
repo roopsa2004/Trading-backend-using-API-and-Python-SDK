@@ -900,29 +900,6 @@ python test\_sdk\_quick.py
 
 
 
-\## 🚀 Production Deployment
-
-
-
-For production, consider:
-
-
-
-1\. \*\*Database\*\*: Migrate to PostgreSQL or MySQL
-
-2\. \*\*Authentication\*\*: Implement JWT or OAuth2
-
-3\. \*\*Rate Limiting\*\*: Prevent abuse
-
-4\. \*\*HTTPS\*\*: Encrypt all traffic
-
-5\. \*\*Caching\*\*: Redis for instrument prices
-
-6\. \*\*Message Queue\*\*: Kafka for async order processing
-
-7\. \*\*Monitoring\*\*: Prometheus, Grafana
-
-8\. \*\*Logging\*\*: Centralized logging (ELK stack)
 
 
 
@@ -938,11 +915,11 @@ This project is created for educational purposes.
 
 
 
-\*\*Your Name\*\*
+\*\*ROOPSA\*\*
 
-\- GitHub: \[@your-username](https://github.com/your-username)
+\- GitHub: \[@roopsa2004(https://github.com/roopsa2004)
 
-\- LinkedIn: \[Your Profile](https://linkedin.com/in/your-profile)
+\- LinkedIn: \(https://www.linkedin.com/in/roopsa-bhattacharya-04450530b/)
 
 
 
